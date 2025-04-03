@@ -11,12 +11,10 @@ This repository contains code for simulating and analyzing neural pathways in th
 - ​**Bioinspired Neural Network**: Predictive model for visual response outcomes of LC neurons
 - ​**Visual Simulation Tools**: Includes raster motion simulation and response visualization
 
-## File Structure
-
 ![Fig2](picture/network_analysis.png)
 
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
-   cd project_directory
+   git clone [[repository_url]](https://github.com/jumping321/CBPW.git)
+   python ORF_analysis.py L1,L2,L3
