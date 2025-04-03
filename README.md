@@ -16,5 +16,5 @@ This repository contains code for simulating and analyzing neural pathways in th
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [[repository_url]](https://github.com/jumping321/CBPW.git)
+   git clone https://github.com/jumping321/CBPW.git
    python ORF_analysis.py L1,L2,L3
